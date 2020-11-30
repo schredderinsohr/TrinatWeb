@@ -5,16 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606731099937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Push">
+      <created>1606731326796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606731326796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second Push">
+      <created>1606731524661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606731524661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,21 +129,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Push" />
+    <MESSAGE value="second Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="second Push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606731097424">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606731523413">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606731097424" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606731523413" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1606730885855">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1606730885855" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606730542596">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606731332528">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606730542596" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606731332528" />
     <state x="547" y="9" width="672" height="678" key="search.everywhere.popup" timestamp="1606729437313">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
