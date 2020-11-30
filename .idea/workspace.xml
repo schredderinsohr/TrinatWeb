@@ -5,7 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="" />
+    <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager">
@@ -71,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606731524661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second Push">
+      <created>1606731653467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606731653467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="second Push">
+      <created>1606731746025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606731746025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,18 +159,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="second Push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606731523413">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606731744944">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606731523413" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606731744944" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1606730885855">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1606730885855" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606731332528">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606731752093">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606731332528" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606731752093" />
     <state x="547" y="9" width="672" height="678" key="search.everywhere.popup" timestamp="1606729437313">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
