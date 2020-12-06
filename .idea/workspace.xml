@@ -6,7 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Blog/blogIndex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Contact/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Contact/Trump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/index.html" afterDir="false" />
     </list>
@@ -39,14 +42,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Contact" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company\Contact" />
       <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company\Contact" />
+      <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company\Blog" />
       <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company" />
     </key>
   </component>
@@ -132,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606734415403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Latest">
+      <created>1607245289809</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607245289809</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,17 +208,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="Latest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606734414716">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1607245288972">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607245288972" />
     <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606734414716" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1607252276479">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607252276479" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1607252276479">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607252276479" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1607252276479">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607252276479" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1607252276479">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607252276479" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1606730885855">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1606730885855" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606731752093">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1607245295596">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607245295596" />
     <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606731752093" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1607243924752">
       <screen x="0" y="0" width="1280" height="688" />
