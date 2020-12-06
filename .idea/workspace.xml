@@ -6,6 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0038594b-c487-4df5-9a4e-410258c69438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +39,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rembo\IdeaProjects\HTML_WEB\src\com\company" />
     </key>
@@ -55,6 +61,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606733650940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Latest">
+      <created>1606734415403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606734415403</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,10 +195,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Latest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606733649347">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1606734414716">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606733649347" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1606734414716" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1606730885855">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
@@ -189,6 +207,10 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1606731752093" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1607243924752">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.688/-1600.0.1600.870@0.0.1280.688" timestamp="1607243924752" />
     <state x="547" y="9" width="672" height="678" key="search.everywhere.popup" timestamp="1606729437313">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
